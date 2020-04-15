@@ -1,5 +1,5 @@
 <div id="readme" class="Box-body readme blob js-code-block-container">
- <article class="markdown-body entry-content p-3 p-md-6" itemprop="This needs to locked down and 'never' changed"><p><a href="https://www.microchip.com" rel="nofollow"><img src="images/MicrochipLogo.png" alt="MCHP" style="max-width:40%;"></a></p>
+ <article class="markdown-body entry-content p-3 p-md-6" itemprop="This needs to locked down and 'never' changed"><p><a href="https://www.microchip.com" rel="nofollow"><img src="images/Microchip.png" alt="MCHP" width="300";"></a></p>
 
 # PIC18F47Q10 EUSART Receive Control Commands
 
@@ -41,7 +41,7 @@ The following configurations must be made for this project:
 Run the code and configure the Data Visualizer as described in the Technical Brief document. Type commands to be sent to the board. The two available commands are "ON" and "OFF". Observe the LED on the board as it changes its state
 according to the command sent.
 
-<img src="images/demo.png" alt="Demo in MPLABX Data Visualizer"/>
+<img src="./images/demo.png" alt="Demo in MPLABX Data Visualizer"/>
 
 ## Summary
 
