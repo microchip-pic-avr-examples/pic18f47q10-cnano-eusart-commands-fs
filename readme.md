@@ -40,7 +40,7 @@ The following configurations must be made for this project:
 Run the code and configure the Data Visualizer as described in the Technical Brief document. Type commands to be sent to the board. The two available commands are "ON" and "OFF". Observe the LED on the board as it changes its state
 according to the command sent.
 
-<img src="./images/demo.png" alt="Demo in MPLABX Data Visualizer"/>
+![Demo in MPLABX Data Visualizer](./images/demo.png)
 
 ## Summary
 
